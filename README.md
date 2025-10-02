@@ -6,6 +6,7 @@ Using [equalsraf/neovim-qt: Neovim client library and GUI, in Qt5.](https://gith
 ### TODOs
 - [x] Use Qt GUI or third-party terminal
   - Font settings should not affect the Windows' terminals, and Windows terminals are supposed to be using PMingLiu
+- [ ] Create a zip installer
   
 ### Notes
 - Jump to line: i mode: `${line number}G`
